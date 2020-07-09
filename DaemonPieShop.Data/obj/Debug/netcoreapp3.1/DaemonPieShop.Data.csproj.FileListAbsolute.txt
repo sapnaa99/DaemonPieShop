@@ -1,0 +1,12 @@
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\bin\Debug\netcoreapp3.1\DaemonPieShop.Data.deps.json
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\bin\Debug\netcoreapp3.1\DaemonPieShop.Data.runtimeconfig.json
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\bin\Debug\netcoreapp3.1\DaemonPieShop.Data.runtimeconfig.dev.json
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\bin\Debug\netcoreapp3.1\DaemonPieShop.Data.dll
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\bin\Debug\netcoreapp3.1\DaemonPieShop.Data.pdb
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\obj\Debug\netcoreapp3.1\DaemonPieShop.Data.csprojAssemblyReference.cache
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\obj\Debug\netcoreapp3.1\DaemonPieShop.Data.AssemblyInfoInputs.cache
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\obj\Debug\netcoreapp3.1\DaemonPieShop.Data.AssemblyInfo.cs
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\obj\Debug\netcoreapp3.1\DaemonPieShop.Data.dll
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\obj\Debug\netcoreapp3.1\DaemonPieShop.Data.pdb
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\obj\Debug\netcoreapp3.1\DaemonPieShop.Data.genruntimeconfig.cache
+D:\Practice\DaemonPieShop\DaemonPieShop.Data\obj\Debug\netcoreapp3.1\DaemonPieShop.Data.csproj.CoreCompileInputs.cache
